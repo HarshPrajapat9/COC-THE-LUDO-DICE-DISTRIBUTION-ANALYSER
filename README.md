@@ -14,6 +14,8 @@ Maths:
 -Experimental vs. theoretical probability distributions
 -Stochastic (random) simulation
 
-How to Compile
-To compile the code, type this in your terminal:
-It will simulate 1 million dice rolls and print the result!
+How to Compile: Open your terminal and run: gcc ludo.c -o ludo
+
+How to Run After compiling, you can run the program with: ludo.exe
+
+It will simulate 1 million dice rolls and print the result!
